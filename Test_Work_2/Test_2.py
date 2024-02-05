@@ -29,6 +29,7 @@ class City:
 
         return f"Город: {self.name}, Страна: {self.country}, Население: {self.population}, Площадь: {self.area}"
 
+
 # Пример использования
 name = input("Введите название города: ")
 country = input("Введите страну, в которой находится город: ")
